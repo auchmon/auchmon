@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T07:09:15.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="K14cji100CvS2CKSRshV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T08:08:01.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mtXEeRE6XvvIYyZpGFRI" version="21.6.6" type="github">
   <diagram name="Page-1" id="NvbPiFwkpMxz-0u18v1t">
-    <mxGraphModel>
+    <mxGraphModel dx="1059" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BVzlhwqOJCUQSImKMimq-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="490" width="500" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry y="30" width="500" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-2" value="NHS Lothian Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="40" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-4" value="RIE-SPLUNK-IF" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="40" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-7" value="SJH-SPLUNK-IF" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="360" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVzlhwqOJCUQSImKMimq-3" source="BVzlhwqOJCUQSImKMimq-6" target="BVzlhwqOJCUQSImKMimq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-6" value="SJH-SPLUNK-HF" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="40" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-5" value="SJH-SPLUNK-SC4S" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="360" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVzlhwqOJCUQSImKMimq-3" source="BVzlhwqOJCUQSImKMimq-9" target="BVzlhwqOJCUQSImKMimq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVzlhwqOJCUQSImKMimq-3" source="BVzlhwqOJCUQSImKMimq-9" target="BVzlhwqOJCUQSImKMimq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-9" value="SJH-SPLUNK-DS" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="203.5" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="BVzlhwqOJCUQSImKMimq-17" target="BVzlhwqOJCUQSImKMimq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="BVzlhwqOJCUQSImKMimq-17" target="BVzlhwqOJCUQSImKMimq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-17" value="SLUNK CLOUD" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BVzlhwqOJCUQSImKMimq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="BVzlhwqOJCUQSImKMimq-5" target="BVzlhwqOJCUQSImKMimq-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="740" />
+              <mxPoint x="760" y="120" />
+              <mxPoint x="205" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
