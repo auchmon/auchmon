@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T09:53:08.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sORL3SS0Gi6GfxIEaTaL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T09:55:32.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3_DZuECRw2W11_-cj-Bm" version="21.6.8" type="github">
   <diagram name="Splunk Overview" id="NvbPiFwkpMxz-0u18v1t">
-    <mxGraphModel dx="326" dy="162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="602" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="ZCe0Wg5Z4BdaRWt3wB61-55" value="TCP:1556,9997,13724,&#xa;    13782,13783" style="text;whiteSpace=wrap;fontSize=9;fontStyle=1" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
           <mxGeometry x="345" y="173.37" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCe0Wg5Z4BdaRWt3wB61-57" value="TCP:1556,8000,8089,13724,13782" style="text;whiteSpace=wrap;fontSize=9;fontStyle=1" vertex="1" parent="BVzlhwqOJCUQSImKMimq-3">
+          <mxGeometry x="162.5" y="250" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BVzlhwqOJCUQSImKMimq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;fillColor=#f8cecc;strokeColor=#ff0f27;strokeWidth=3;" parent="1" source="BVzlhwqOJCUQSImKMimq-17" target="BVzlhwqOJCUQSImKMimq-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
